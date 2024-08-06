@@ -3,8 +3,8 @@ title: "Readthedown"
 author: "David Hernandez"
 date: "`r Sys.Date()`"
 output:
-  rmdformats::readthedown:
-    highlight: kate
+  rmdformats::robobook:
+    
 ---
 
 ```{r setup, include=FALSE}
